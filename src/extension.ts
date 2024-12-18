@@ -82,7 +82,6 @@ function findNextPrayer(prayers: Record<string, string>, currentTime: Date) {
   return { nextPrayer: prayerOrder[0], prayerDate: null };
 }
 
-// Format time left in human-readable format
 function formatTimeLeft(timeLeftSeconds: number | null) {
   if (timeLeftSeconds === null) {
     return "Next day's first prayer";

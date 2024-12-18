@@ -1,6 +1,8 @@
 {
   "name": "prayer-times",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "alwalxed",
+  "icon": "icon.png",
   "main": "./dist/extension.js",
   "devDependencies": {
     "@types/mocha": "^10.0.10",
@@ -30,7 +32,7 @@
       }
     ]
   },
-  "description": "",
+  "description": "Displays the next prayer time in the status bar.",
   "displayName": "Prayer Times",
   "engines": {
     "vscode": "^1.96.0"
@@ -51,5 +53,9 @@
   },
   "dependencies": {
     "zero-deps-prayer-times": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo/prayer-times-vsc-extension.git"
   }
 }
