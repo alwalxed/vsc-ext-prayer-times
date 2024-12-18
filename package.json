@@ -56,6 +56,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-repo/prayer-times-vsc-extension.git"
+    "url": "https://github.com/alwalxed/vscode-extension-prayer-times.git"
   }
 }
