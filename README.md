@@ -1,4 +1,4 @@
-# 🕌 Prayer Times for VS Code
+# 🕌 Prayer Times Extension for VS Code
 
 Displays the next prayer time in the status bar.
 
