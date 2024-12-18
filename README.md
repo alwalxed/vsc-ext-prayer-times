@@ -27,9 +27,9 @@ Your city and coordinates are saved in VS Code's global state for persistence.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/alwalxed/vsc-ext-prayer-times/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/alwalxed/vscode-extension-prayer-times/blob/main/LICENSE) file for details.
 
 ## Bugs & Contributions
 
-- [GitHub Repository](https://github.com/alwalxed/vsc-ext-prayer-times)
-- For issues or feature requests, [open an issue on GitHub](https://github.com/alwalxed/vsc-ext-prayer-times/issues).
+- [GitHub Repository](https://github.com/alwalxed/vscode-extension-prayer-times)
+- For issues or feature requests, [open an issue on GitHub](https://github.com/alwalxed/vscode-extension-prayer-times/issues).
