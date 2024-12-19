@@ -12,7 +12,7 @@ export async function fetchCoordinatesForCity(
     if (!response.ok) {
       throw new Error("Failed to fetch coordinates for city");
     }
-    const data: GeocodeResponse = await response.json();
+    const data: GeocodeResponse = (await response.json()) as GeocodeResponse;
     if (!data.latt || !data.longt) {
       throw new Error("Incomplete coordinates data");
     }
