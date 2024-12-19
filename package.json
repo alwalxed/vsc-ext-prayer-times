@@ -51,11 +51,11 @@
     "lint": "eslint src",
     "test": "vscode-test"
   },
-  "dependencies": {
-    "zero-deps-prayer-times": "^1.0.1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/alwalxed/vscode-extension-prayer-times.git"
+  },
+  "dependencies": {
+    "zero-deps-prayer-times": "^1.0.2"
   }
 }

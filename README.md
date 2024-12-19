@@ -1,4 +1,4 @@
-# 🕌 Prayer Times Extension for VS Code
+# Prayer Times (VSC Extension)
 
 Displays the next prayer time in the status bar.
 
@@ -7,23 +7,18 @@ Displays the next prayer time in the status bar.
 - Countdown to the next prayer time.
 - Manually set your city for prayer times (defaults to Makkah if not set).
 
-## Installation
-
-1. Open **Extensions** (`Ctrl+Shift+X` or `Cmd+Shift+X`).
-2. Search for **Prayer Times** and click **Install**.
-
 ## Usage
 
 1. On first use, enter your city for prayer times.
 2. Use the **Change City for Prayer Times** command in the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) to update your city.
 
+## Screenshots
+
+![Prayer times in status bar](https://github.com/alwalxed/vscode-extension-prayer-times/blob/main/screenshot.png)
+
 ## Commands
 
 - **Change City for Prayer Times**: Set or update your city.
-
-## Configuration
-
-Your city and coordinates are saved in VS Code's global state for persistence.
 
 ## License
 
