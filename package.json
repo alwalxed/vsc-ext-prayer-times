@@ -1,6 +1,6 @@
 {
   "name": "prayer-times",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "alwalxed",
   "icon": "icon.png",
   "main": "./dist/extension.js",
