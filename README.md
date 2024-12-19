@@ -14,7 +14,7 @@ Displays the next prayer time in the status bar.
 
 ## Screenshots
 
-![Prayer times in status bar](https://github.com/alwalxed/vscode-extension-prayer-times/blob/main/screenshot.png)
+![Prayer times in status bar](https://raw.githubusercontent.com/alwalxed/vscode-extension-prayer-times/refs/heads/main/screenshot.png)
 
 ## Commands
 
